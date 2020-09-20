@@ -59,6 +59,7 @@ public class EmployeeRepository {
         {
             existingEmployee.setName(employee.getName());
         }
+        assert existingEmployee != null;
         return Mono.just(existingEmployee);
     }
 }
