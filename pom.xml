@@ -424,6 +424,7 @@
                 <module>hazelcast</module>
                 <module>helidon</module>
                 <module>httpclient</module>
+                <module>httpclient-2</module>
                 <module>httpclient-simple</module>
                 <module>hystrix</module>
 
@@ -651,7 +652,6 @@
                 <module>spring-dispatcher-servlet</module>
                 <module>spring-drools</module>
 
-                <module>spring-ehcache</module>
                 <module>spring-ejb</module>
                 <module>spring-exceptions</module>
 
@@ -936,6 +936,7 @@
                 <module>hazelcast</module>
                 <module>helidon</module>
                 <module>httpclient</module>
+                <module>httpclient-2</module>
                 <module>httpclient-simple</module>
                 <module>hystrix</module>
 
@@ -1152,7 +1153,6 @@
                 <module>spring-dispatcher-servlet</module>
                 <module>spring-drools</module>
 
-                <module>spring-ehcache</module>
                 <module>spring-ejb</module>
                 <module>spring-exceptions</module>
 
